@@ -22,5 +22,5 @@ Route::get('/contact', function () {
 });
 
 Route::get('/produtos', function () {
-    return view('product');
+    return view('products');
 });
